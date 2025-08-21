@@ -93,3 +93,23 @@ span.significado-palavra:hover {
         opacity: 1;
     }
 }
+
+.main-center-index-3 {
+    background-color: var(--cor-fundo-cinza-claro);
+    display: flex;
+    justify-content: space-between;
+    height: 100vh;
+    align-items: center;
+}
+
+.project-container {
+    background-color: var(--cor-fundo-escuro);
+    border: 1px solid var(--cor-texto-verde-insano);
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 10px;
+    width: 300px;
+    cursor: pointer;
+}
